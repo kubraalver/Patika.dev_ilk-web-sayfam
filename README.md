@@ -1,5 +1,5 @@
 # İlk Web Sayfam
-<h1>Kübra Alver</h1>
+<div style="text-align:center"><h1>Kübra Alver</h1></div>
 
 <br>
 <h2>Hakkımda</h2>
@@ -22,25 +22,43 @@
 <hr>
 <!--Kitaplar-->
 <br>
-<h5>Sevdiğim Kitaplar</h5>
-<li>Flowers for Algernon</li>
-<li>Harry Potter</li>
-<!--Diziler-->
+<ol> 
+    <li>Sevdiğim Kitaplar</li>
+    <ul>
+        <li><a href="https://www.goodreads.com/book/show/41817486-a-clockwork-orange?ref=nav_sb_noss_l_12#CommunityReviews" target="_blank">
+            A Clockwork Orange
+          </a></li>
+        <li>Flowers for Algernon</li>
+        <li>Harry Potter</li>
+    </ul>
+        <!--Diziler-->
 <br>
-<h5>Sevdiğim Diziler</h5>
-<li>OA</li>
-<li>Friends</li>
-<li>Brooklyn Nine-Nine</li>
-<li>The Sandman</li>
-<!--Filmler-->
+    <li>Sevdiğim Diziler</li> 
+    <ul>
+        <li><a href="https://www.imdb.com/title/tt4635282/?ref_=nv_sr_srsg_0" target="_blank">
+            The OA
+          </a></li>
+        <li>Friends</li>
+        <li>Brooklyn Nine-Nine</li>
+        <li>The Sandman</li>
+    </ul>
 <br>
-<h5>Sevdiğim Filmler</h5>
-<li>Le Hérisson</li>
-<li>'Before' Trilogy</li>
-<li>La Haine</li>
-<br>
-<hr>
-<!-- patika.dev linkinin bulunduğu alan -->
-<div style="text-align:center"><a href="https://www.patika.dev/tr">
-<div style="text-align:center"><p>Patika.dev</p></div>
-<hr>
+        <!--Filmler-->
+        <li>Sevdiğim Filmler</li>
+        <ul> <li><a href="https://www.imdb.com/title/tt1442519/" target="_blank">
+            Le Hérisson
+          </a></li>
+        <li>'Before' Trilogy</li>
+        <li>La Haine</li> </ul>
+</ol>
+<div>
+    <h4>En Sevdiğim Film: Le Hérisson</h4>
+    <div style="text-align:center"><img width="270" height="400" src="https://m.media-amazon.com/images/M/MV5BMTc0Mzg3OTQyN15BMl5BanBnXkFtZTcwODA2OTc4NQ@@._V1_.jpg" alt="Le Hérisson">
+    <p>Le hérisson | The Hedgehog | Yaşamaya Değer, 2009 yapımı yönetmenliğini Mona Achache'in yaptığı Fransız dram komedi filmi. Film Muriel Barbery'in Kirpinin Zarafeti adlı romanından uyarlamadır.</p></div>
+    <br>
+    <hr>
+    <!-- patika.dev linkinin bulunduğu alan -->
+    <div style="text-align:center"><a href="https://www.patika.dev/tr">
+    <div style="text-align:center"><p>Patika.dev</p></div>
+    <hr>
+</div>
